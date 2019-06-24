@@ -5,7 +5,7 @@ end
 
 def create_an_array
   anyArray = ['array item']
-  return emptyArray
+  return anyArray
 end
 
 def add_element_to_end_of_array(array, element)
